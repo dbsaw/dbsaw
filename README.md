@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dbsaw
 - 👀 I’m interested in IoT, AI and Graphic Designing.
-- 🌱 I’m currently learning Python.
+- Python and javascript
+- react bigginer
 
 
 <!---
